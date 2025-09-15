@@ -1,0 +1,3 @@
+titles.md is the title of the movies
+classics.csv is the branch i created for the branch
+quotes a directory containing memorable quotes from movies
